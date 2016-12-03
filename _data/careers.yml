@@ -1,0 +1,57 @@
+- name:
+    detail: Qualified Electrical & Computer Engineer
+    i18n: graduate
+  desc:
+    detail: Completed degree in electrical & computer engineering with honors. 
+    i18n: graduate_des
+  date:
+    detail: Dec. 2016
+    i18n: graduate_date
+  job:
+    detail: Graduate
+    i18n: graduate_job
+  icon: fa-trophy
+
+- name:
+    detail: Internship at Openbox Software
+    i18n: openbox
+  desc:
+    detail: At Openbox I worked with a team of three computer science students to develop a KPI (Key Performace Indicator) web application to monitor the performace of employees and track the status of the company's projects. 
+    i18n: openbox_des
+  date:
+    detail: Jan. 2015
+    i18n: openbox_date
+  job:
+    detail: Software Developer
+    i18n: openbox_job
+  icon: fa-gamepad
+
+- name:
+    detail: Electrical & Computer Engineering 
+    i18n: varsity
+  desc:
+    detail: In Feb 2013, I started my undergraduate degree in Electrical and Computer Engineering at the University of Cape Town
+    i18n: varsity_des
+  date:
+    detail: Feb. 2013
+    i18n: varsity_date
+  job:
+    detail: Student
+    i18n: varsity_job
+  icon: fa-book
+
+- name:
+    detail: Nomad Productions & Entertainment
+    i18n: nomad
+  desc:
+    detail: In 2013 I joined the Nomad team. The skills that I have aquired through Nomad include making real time descisions, working under pressure, public speaking, communicating with professionalism, and managing the expectations of clients. 
+    i18n: nomad_des
+  date:
+    detail: Jan. 2013
+    i18n: nomad_date
+  job:
+    detail: Entertainment Manager & DJ
+    i18n: nomad_job
+  icon: fa-music  
+
+ 

@@ -1,0 +1,22 @@
+- name: 'Home Surveillance with Facial Recognition'
+  i18n: 'homesurveillance'
+  url: '/BrandonJoffe/home_surveillance'
+  img: 'static/img/landing/dashboard.png'
+  desc: 'This application is a low-cost, adaptive and extensible surveillance system focused on identifying and alerting for potential home intruders.'
+
+- name: 'Accelerated Mandelbrot Set Generation'
+  i18n: 'jalpc'
+  url: '/BrandonJoffe/MANDELBROT'
+  img: 'static/img/landing/mandelbrot.jpg'
+  desc: "This is a FPGA accelerated mandelbrot set generator. The architecture was developed using verilog code, and consists of multiple hardware modules that run in parrallel."
+
+- name: 'Modular Synthesizer'
+  i18n: 'angularjs'
+  img: 'static/img/landing/synth.png'
+  desc: "This project involved the design and implementation of a modular synthesizer. My role for this project was to manage project tasks and to design and implement the analogue circuity."
+
+- name: 'Company Website'
+  i18n: 'rsser'
+  img: 'static/img/landing/nomad.png'
+  desc: 'This website was developed for the entertainment company Nomad Productions: http://www.nomadpro.co.za'
+
